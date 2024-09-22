@@ -58,14 +58,15 @@ Maps are stored as `.ber` files with a simple format:
 - **P**: Player start position
 - **E**: Exit
 - **C**: Collectible item
-- **X**: Enemy
+- **^, v, >, <**: Enemy
 
 Example:
 
 ```
 11111
 1P0C1
-1X0E1
+1>001
+1C0E1
 11111
 ```
 
