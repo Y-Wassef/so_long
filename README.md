@@ -77,5 +77,3 @@ This project was built to strengthen knowledge in:
 - 2D game development using low-level C programming.
 - Working with a graphical library (MLX).
 - Basic AI implementation and collision detection.
-
----
