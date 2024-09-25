@@ -46,6 +46,12 @@ Example:
 
 ## Requirements
 
+### Dependencies
+For Ubuntu/Debian, install the necessary development packages:
+```bash
+sudo apt install libx11-dev libxext-dev libbsd-dev
+```
+
 - **MLX Library**: Make sure the MLX library is installed.
 - **C Compiler**: Ensure GCC or Clang is available.
 - **Make**: The project uses a Makefile for compilation.
