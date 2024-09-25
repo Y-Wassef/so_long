@@ -20,16 +20,6 @@ LIBFT = $(LIBFT_DIR)libft.a
 MLX_DIR = ./mlx/
 MLX = $(MLX_DIR)libmlx.a
 
-SRC=	main.c\
-		parse_map.c\
-		mlx_init.c\
-		mlx_utils.c\
-		check_invalid_1.c\
-		check_invalid_2.c\
-		handle_keypress.c\
-		render.c\
-		utils.c
-
 SRC=	$(addprefix $(SRC_DIR),\
 			check_invalid_1.c\
 			check_invalid_2.c\
