@@ -17,6 +17,7 @@ To compile the game:
 ```bash
 make
 ```
+If the project does not compile in your environment, feel free to send me a message so I can look into the issue and help resolve it.
 
 To run the game:
 
