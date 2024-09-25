@@ -40,8 +40,6 @@ SRC=	$(addprefix $(SRC_DIR),\
 
 OBJ= $(SRC:%.c=%.o)
 
-OBJ= $(SRC:%.c=%.o)
-
 all: $(NAME)
 
 $(LIBFT):
